@@ -69,5 +69,15 @@ namespace SisPadoca.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngtree_bakery_logo_baker_illustration_png_image_9019460 {
+            get {
+                object obj = ResourceManager.GetObject("pngtree-bakery-logo-baker-illustration-png-image_9019460", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
